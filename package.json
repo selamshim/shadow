@@ -1,0 +1,22 @@
+{
+  "name": "shadowz",
+  "version": "1.0.0",
+  "description": "add beautifull shadow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selamshim/shadow.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "selam shimelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selamshim/shadow/issues"
+  },
+  "homepage": "https://github.com/selamshim/shadow#readme"
+}
